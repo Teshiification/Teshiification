@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <section align="center">
 
-<a href="#"><img width="100%" height="50%" src="https://cdn.dribbble.com/users/3281732/screenshots/6552930/ef066617-ce4e-45c9-ae22-1af21711119c.jpeg" height="175px" /></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Danny</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Germany.</h3>
