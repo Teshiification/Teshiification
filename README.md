@@ -9,11 +9,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning: **REACT**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://danny-sinicco.de)**
+- 👨‍💻 All of my projects are available at: **[My Portfolio](https://danny-sinicco.de)**
 
-- ⚡ Fun fact **I also do some 3D Printing stuff**
+- ⚡ Fun fact: **I also do some 3D Printing stuff**
 
 <!-- INFORMATIONS -->
 
@@ -50,9 +50,10 @@
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teshiification&show_icons=true&theme=synthwave)](https://github.com/Teshiification/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teshiification&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teshiification)](https://github.com/Teshiification/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teshiification&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
