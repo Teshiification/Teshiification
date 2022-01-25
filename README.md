@@ -31,20 +31,25 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-</p><br/>
+</p>
+<br/>
+
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 <br/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Teshiification&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </br>
 
 <!-- GITHUB STEATS -->
 
 ## 📊 My Github Stats
 
-  <br/>
+<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teshiification&show_icons=true&theme=synthwave)](https://github.com/Teshiification/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teshiification)](https://github.com/Teshiification/github-readme-stats)
