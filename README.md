@@ -1,7 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- HEADER -->
+
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/3281732/screenshots/6552930/ef066617-ce4e-45c9-ae22-1af21711119c.jpeg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Danny</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Germany.</h3>
+
+<!-- ABOUT ME -->
 
 ## 🙋‍♂️ About Me
 
@@ -10,6 +14,8 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://danny-sinicco.de)**
 
 - ⚡ Fun fact **I also do some 3D Printing stuff**
+
+<!-- INFORMATIONS -->
 
 ## 🚀 Languages and Tools:
 
@@ -33,21 +39,22 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Teshiification&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </br>
 
+<!-- GITHUB STEATS -->
+
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Teshiification/github-readme-stats"><img alt="Teshiification Github Stats" src="https://github-readme-stats.vercel.app/api?username=Teshiification&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Teshiification/github-readme-stats"><img alt="Teshiification Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teshiification&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teshiification&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/Teshiification/github-readme-activity-graph"><img alt="Teshiification's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Teshiification&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
 
-<br/>
-<br/>
+<!-- SOCIAL MEDIA -->
 
 ## Connect with me:
 
