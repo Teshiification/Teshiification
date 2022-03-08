@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <section align="center">
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img width="500" alt="Frame" src="https://user-images.githubusercontent.com/54819795/157203729-a42d17e2-2bec-4c9c-bb6f-f31fbc505bbd.png">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Danny</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Germany.</h3>
