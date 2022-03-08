@@ -46,6 +46,15 @@
     </a>
 </p>
 
+## 🌱 My Future Plans
+<ul>
+    <li>My own Apps</li>
+    <li>Home Assist Tools</li>
+    <li>Automatisations</li>
+    <li>Space Engineers Scrips</li>
+    <li>Minecraft Plugins</li>    
+</ul>
+
 ## 📊 My Github Stats
 
 <br/>
