@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning: **REACT**
+- 🌱 I’m currently learning: **REACT** & **NEXTJS**
 
 - 👨‍💻 All of my projects are available at: **[My Portfolio](https://danny-sinicco.de)**
 
@@ -29,13 +29,12 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<a href="https://nextjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
 </p>
 
 <br/>
@@ -49,8 +48,6 @@
 ## 🌱 My Future Plans
 <ul>
     <li>My own Apps</li>
-    <li>Home Assist Tools</li>
-    <li>Automatisations</li>
     <li>Space Engineers Scrips</li>
     <li>Minecraft Plugins</li>    
 </ul>
@@ -74,6 +71,7 @@
 
 <p align="left">
 
+<p>email: danny.sinicco@web.de</p>
 <a href = "https://www.instagram.com/dannysini/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
