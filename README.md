@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning: **REACT** & **NEXTJS**
+- 🌱 I’m currently working with: **REACT** & **NEXTJS**
 
 - 👨‍💻 All of my projects are available at: **[My Portfolio](https://danny-sinicco.de)**
 
@@ -20,21 +20,15 @@
 
 <!-- INFORMATIONS -->
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="center">
-<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-<a href="https://www.microsoft.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-<a href="https://www.microsoft.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a href="https://nextjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
+
+![Static Badge](https://img.shields.io/badge/NPM-NPM?logo=npm&labelColor=white&color=%23CB3837)
+![Static Badge](https://img.shields.io/badge/React-react?logo=react&logoColor=%2361DAFB&labelColor=white&color=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-TailwindCSS?logo=TailwindCSS&logoColor=%2306B6D4&labelColor=white&color=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/Supabase-Supabase?logo=Supabase&logoColor=%233FCF8E&labelColor=white&color=%233FCF8E)
+
 </p>
 
 <br/>
@@ -48,8 +42,8 @@
 ## 🌱 My Future Plans
 <ul>
     <li>My own Apps</li>
-    <li>Space Engineers Scrips</li>
-    <li>Minecraft Plugins</li>    
+    <li>GitHub Cooperations</li>
+    <li>Games - Plugins/Mods</li>    
 </ul>
 
 ## 📊 My Github Stats
@@ -59,22 +53,10 @@
   <a href="https://github.com/Teshiification/github-readme-stats"><img alt="Teshiification's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Teshiification&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Teshiification/github-readme-stats"><img alt="Teshiification's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teshiification&langs_count=4&count_private=true&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
 </p>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
-
-<!-- SOCIAL MEDIA -->
-
-## Connect with me:
-
-<p align="left">
-
-<p>email: danny.sinicco@web.de</p>
-<a href = "https://www.instagram.com/dannysini/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
+<br/>
 
 ## ❤ Views and Followers
 
