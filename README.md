@@ -16,6 +16,8 @@
 
 - 👨‍💻 All of my projects are available at: **[My Portfolio](https://danny-sinicco.de)**
 
+- 🌱 Current project: **[OnlyChill.org](https://onlychill.org)** or **[OnlyChill Repository](https://github.com/Teshiification/Halle)**
+
 - ⚡ Fun fact: **Programming since I'm 12**
 
 <!-- INFORMATIONS -->
@@ -38,13 +40,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Teshiification's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Teshiification&theme=synthwave&hide_border=true&stroke=0000&bg_color=0D1117"/>
     </a>
 </p>
-
-## 🌱 My Future Plans
-<ul>
-    <li>My own Apps</li>
-    <li>GitHub Cooperations</li>
-    <li>Games - Plugins/Mods</li>    
-</ul>
 
 ## 📊 My Github Stats
 
