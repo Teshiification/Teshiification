@@ -50,10 +50,10 @@ Beyond development, I’m also into **oil & acrylic painting**, **pen-and-paper 
 
 ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Teshiification&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teshiification&layout=compact&langs_count=6&theme=synthwave&hide_border=true&bg_color=0D1117" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teshiification&theme=synthwave&hide_border=true&background=0D1117" />
